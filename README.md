@@ -34,5 +34,4 @@ Please follow the instructions below to use and run the application :
 ```
 ```
 8. To run a new flake8 report : $ flake8 --max-line-length=119 --format=html --htmldir=flake-report
-
 ```
