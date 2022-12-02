@@ -20,12 +20,12 @@ $ git clone https://github.com/antoinekk/chess-tournament.git <your path>
 $ cd ../path/to/the/folder
 ```
 
-3. Create a virtual environement :
+3. Create a virtual environment :
 ```
 $ python -m venv env
 ```
 
-4. Activate your environement :
+4. Activate your environment :
 ```
 $ source env/bin/activate
 ```
