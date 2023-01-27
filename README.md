@@ -12,7 +12,7 @@ Please follow the instructions below to use and run the application :
 
 1. Clone the repository :
 ```
-$ git clone https://github.com/antoinekk/chess-tournament.git <your path>
+$ git clone https://github.com/antoinekk/chess-tournament-python.git <your path>
 ```
 
 2. Go into the folder of the repository :
