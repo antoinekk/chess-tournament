@@ -46,7 +46,7 @@ Here the menu of the application is displayed in your terminal.
 You just have to follow the instructions to create tournament/players, run a tournament or generate a report.
 ```
 
-8. Run a flake8 repoort:
+8. Run a flake8 report:
 ```
 $ flake8 --max-line-length=119 --format=html --htmldir=flake-report
 ```
